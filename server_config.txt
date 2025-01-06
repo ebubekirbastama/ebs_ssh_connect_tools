@@ -1,4 +1,4 @@
-ip
+ip adresi
 22
 kullanıcıadi
 şifre
