@@ -1,6 +1,8 @@
 🚀 **Program Adı:** SSH Client Application
 🔧 **Kullanılan Teknolojiler:** PyQt5, Paramiko, QThread
 
+![EBS](ebssshconnect.png)
+
 📜 **Açıklama:**
 Bu Python programı, bir SSH istemcisi arayüzü sağlar ve kullanıcının uzak bir sunucuya bağlanarak komutlar çalıştırmasına, log dosyalarını takip etmesine olanak tanır. Uygulama PyQt5 kullanılarak GUI oluşturulmuş ve Paramiko kütüphanesiyle SSH bağlantısı yapılmıştır. 🌐
 
